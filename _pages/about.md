@@ -53,10 +53,10 @@ This 'rising sea' philosophy guides my own approach to research. I am a firm bel
 
 ## Long-term visitings
 
-* **Center for Statistical Science**, Tsinghua University, China. Host by Qian Lin. Dec 2023 - Jan 2024. Outcome: Research paper.
-* **RIKEN-AIP**, Japan. Host by Taiji Suzuki. Funded by RIKEN-AIP Overseas Student Collaboration Program. Aug 2025 - Oct 2025. Outcome: Research paper.
-* **Faculty of Mathematics**, Informatics and Mechanics, University of Warsaw, Poland. Host by Radoslaw Adamczak. Funded by Erasmus+ PhD mobility grant. Oct 2025 - Dec 2025. Outcome: Research paper.
-* **Department of Statistical and Data Science**, Cornell University, USA. Host by Florentina Bunea. Funded by EUR – École Universitaire de Recherche ‘DATA EFM’. Apr 2026 - Jun 2026.
+* **Center for Statistical Science**, Tsinghua University, China. Host by <a href="https://sites.google.com/site/qianlincd/qian-lins-home-page">Qian Lin</a>. Dec 2023 - Jan 2024. Outcome: <a href="https://arxiv.org/pdf/2512.14473">Research paper</a>.
+* **RIKEN-AIP**, Japan. Host by <a href="https://ibis.t.u-tokyo.ac.jp/suzuki/">Taiji Suzuki</a>. Funded by <a href="https://aip.riken.jp/aip-osc2-0/">RIKEN-AIP Overseas Student Collaboration Program</a>. Aug 2025 - Oct 2025. Outcome: <a href="https://sites.google.com/view/zong-shang-s-homepage/home/mathematical-statistics-and-statistical-learning-theory/generalization-error-of-mean-field-shallow-neural-network?authuser=0">Research paper</a>.
+* **Faculty of Mathematics**, Informatics and Mechanics, University of Warsaw, Poland. Host by <a href="https://www.mimuw.edu.pl/~radamcz/">Radoslaw Adamczak</a>. Funded by <a href="https://www.ip-paris.fr/education/international/partir-letranger-avec-erasmus">Erasmus+ PhD mobility grant</a>. Oct 2025 - Dec 2025. Outcome: <a href="https://sites.google.com/view/zong-shang-s-homepage/home/mathematical-statistics-and-statistical-learning-theory/benign-overfitting/benign-overfitting-of-the-minimum-ell_q-norm-interpolant-estimator?authuser=0">Research paper</a>.
+* **Department of Statistical and Data Science**, Cornell University, USA. Host by <a href="https://stat.cornell.edu/people/florentina-bunea">Florentina Bunea</a>. Funded by EUR – École Universitaire de Recherche ‘DATA EFM’. Apr 2026 - Jun 2026.
 
 
 ## Grants
