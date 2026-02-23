@@ -46,5 +46,25 @@ The unknown thing to be known appeared to me as some stretch of earth or hard ma
 
 Even though I do not speak French, this image of the rising sea has always resonated with me — gentle, patient, and inexorable, much like the way I hope mathematics reveals its truths.
 
+
 This 'rising sea' philosophy guides my own approach to research. I am a firm believer that in mathematics, the 'hard work' should be done by the definitions and the framework themselves. When the conceptual architecture is built with enough care and insight, the theorems should not be forced; they should emerge as natural, almost quiet, consequences of the structures we have defined. For me, a proof is most beautiful when it feels less like a conquest and more like a discovery made inevitable by the right perspective.
+
+
+
+## Long-term visitings
+
+* **Center for Statistical Science**, Tsinghua University, China. Host by Qian Lin. Dec 2023 - Jan 2024. Outcome: Research paper.
+* **RIKEN-AIP**, Japan. Host by Taiji Suzuki. Funded by RIKEN-AIP Overseas Student Collaboration Program. Aug 2025 - Oct 2025. Outcome: Research paper.
+* **Faculty of Mathematics**, Informatics and Mechanics, University of Warsaw, Poland. Host by Radoslaw Adamczak. Funded by Erasmus+ PhD mobility grant. Oct 2025 - Dec 2025. Outcome: Research paper.
+* **Department of Statistical and Data Science**, Cornell University, USA. Host by Florentina Bunea. Funded by EUR – École Universitaire de Recherche ‘DATA EFM’. Apr 2026 - Jun 2026.
+
+
+## Grants
+
+* **Visiting Grant**, EUR – École Universitaire de Recherche ‘DATA EFM’, 2026.
+* **Visiting Grant**, RIKEN-AIP Overseas Student Collaboration Program, 2025.
+* **Visiting Grant**, Erasmus+ PhD mobility grant, 2025.
+* **PhD-track fellowship** by Institut Polytechnique de Paris, 2021-2023.
+* **PhD early call fellowship** by l'Ecole Doctorale de Mathématiques Hadamard (EDMH), 2023-2026.
+
 
