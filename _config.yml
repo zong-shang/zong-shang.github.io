@@ -92,6 +92,8 @@ publication_category:
     title: 'Conference Papers'
   preprints:                           
     title: 'Preprints'
+  workings:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
