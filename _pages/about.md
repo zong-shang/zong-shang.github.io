@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student in the Department of Statistics at CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecu\'e</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>. On this homepage, you can find some of my reflections on mathematical statistics and statistical learning theory.  Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentor will be Vladimir Koltchinskii.
+I am a 3rd year Ph.D. student in the Department of Statistics at CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecué</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>. On this homepage, you can find some of my reflections on mathematical statistics and statistical learning theory.  Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentor will be Vladimir Koltchinskii.
 
 ## Research Interests
 
 I am interested in Mathematical Statistics and Statistical Learning Theory. My research focuses on refining the fundamental methodologies of the field, specifically the uniform convergence argument.
 
-In collaboration with my PhD advisor, Guillaume Lecu\'e, I developed the Feature Space Decomposition (FSD) method. FSD provides theoretical statisticians with a novel analytical tool and a transformative framework for understanding high-dimensional structures. Motivated by the phenomenon of benign overfitting, this methodology bridges the gap between mathematical statistics and the Geometric Aspects of Functional Analysis (GAFA). My work utilizes classical GAFA results while developing new generalizations inspired by the rigorous demands of modern statistical problems.
+In collaboration with my PhD advisor, Guillaume Lecué, I developed the Feature Space Decomposition (FSD) method. FSD provides theoretical statisticians with a novel analytical tool and a transformative framework for understanding high-dimensional structures. Motivated by the phenomenon of benign overfitting, this methodology bridges the gap between mathematical statistics and the Geometric Aspects of Functional Analysis (GAFA). My work utilizes classical GAFA results while developing new generalizations inspired by the rigorous demands of modern statistical problems.
 
 Below are some of the research keywords of my research:
 
@@ -26,7 +26,7 @@ Below are some of the research keywords of my research:
 
 * **PhD in Applied Mathematics**: CREST-ENSAE, Insitut Polytechnique de Paris, Palaiseau, Frace (2023 – **Expected April 2026**).
   * **Thesis Title**: Feature Space Decomposition.
-  * **Supervisors**: Guillaume Lecu\'e, and Matthieu Lerasle.
+  * **Supervisors**: Guillaume Lecué, and Matthieu Lerasle.
   * **Reviewers**: Vladimir Koltchinskii, and Sara Van de Geer.
   * **Jury**: Alexandre Tsybakov, Claire Boyer, Marta Strzelecka, and Taiji Suzuki.
 * **Master in Applied Mathematics and Statistics**: Data Science, Institut Polytechnique de Paris, Palaiseau, France (2021 - 2023).
