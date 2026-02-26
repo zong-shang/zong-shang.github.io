@@ -19,7 +19,7 @@ In collaboration with my PhD advisor, Guillaume Lecué, I developed the Feature 
 Below are some of the research keywords of my research:
 
 * **Statistical Learning Theory**: Uniform convergence argument, localization, multiplier & quadratic processes, fixed-point analysis, (local) Bernstein's condition.
-* **Geometric Aspects of Functional Analysis**: Dvoretzky-Milman theorem, generic chaining, small-ball method, empirical process theory, Gaussian mean width, Rademacher complexity, restricted strong convexity (RSC), restricted isomorphic property (RIP).
+* **Geometric Aspects of Functional Analysis**: Dvoretzky-Milman theorem, generic chaining, small-ball method, empirical process theory, Gaussian mean width, Rademacher complexity, restricted strong convexity (RSC), restricted isomorphic property (RIP), random matrices.
 * **Learning procedues and Statistical Models**: Empirical Risk Minimization (ERM), Regularized Empirical Risk Minimization (RERM), M-estimators, ridge regression, Gradient Descent, Gradient Flow, Principle Components Regression (PCR), spectral methods, mean-field shallow neural network, mean-field Langevin dynamics, reproducing kernel Hilbert spaces (RKHS), reproducing kernel Banach spaces (RKBS), latent factor model, single- and multi-index regression.
 * **Phenomena**: Benign overfitting, feature learning, saturation effect.
 
@@ -29,7 +29,8 @@ Below are some of the research keywords of my research:
   * **Thesis Title**: Feature Space Decomposition.
   * **Supervisors**: Guillaume Lecué, and Matthieu Lerasle.
   * **Reviewers**: Vladimir Koltchinskii, and Sara Van de Geer.
-  * **Jury**: Alexandre Tsybakov, Claire Boyer, Marta Strzelecka, and Taiji Suzuki.
+  * **Jury**: Alexandre Tsybakov, Claire Boyer, Vladimir Koltchinskii, and Sara Van de Geer.
+  * **Invite**: Marta Strzelecka, and Taiji Suzuki.
 * **Master in Applied Mathematics and Statistics**: Data Science, Institut Polytechnique de Paris, Palaiseau, France (2021 - 2023).
 * **B.S. in Computer Science**, College of Computer Science and Technology, Jilin University, Changchun, China (2017 – 2021).
 
@@ -68,4 +69,5 @@ This 'rising sea' philosophy guides my own approach to research. I am a firm bel
 * **PhD-track fellowship** by Institut Polytechnique de Paris, 2021-2023.
 * **PhD early call fellowship** by l'Ecole Doctorale de Mathématiques Hadamard (EDMH), 2023-2026.
 
-
+## Reviewing
+* **Journals**: *Annals of Applied Probability*, *Annals of Statistics* (×3), *Bernoulli*, *Electronic Journal of Statistics*, *Journal of the American Statistical Association*, *Journal of Machine Learning Research (JMLR)*.
