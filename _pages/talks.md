@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Seminar Machine Learning Genoa Center (MaLGa)**, Italy, 2026.
+* [**Seminar Machine Learning Genoa Center (MaLGa)**](https://malga.unige.it/seminars/17490), Italy, 2026.
 
 * **Séminaire Probabilités et Statistiques**, Laboratoire de mathématiques d'Orsay, France, 2026.
 
