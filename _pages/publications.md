@@ -14,8 +14,8 @@ In all papers, authors are listed in lexicographic order.
 
 ## Preprints
 
-* **Sharp convergence rates for Spectral methods via the feature space decomposition method**, G. Lecué, Z. Li, and **Zong Shang**. *arXiv preprint arXiv:2512.14473*, 2025. [[PDF](http://arxiv.org/abs/2512.14473)]
-* **Upper bounds for the $L^q$ empirical process via generic chaining**, **Zong Shang**. *arXiv preprint arXiv:2511.06338*, 2025. [[PDF](http://arxiv.org/abs/2511.06338)]
+* [**Sharp convergence rates for Spectral methods via the feature space decomposition method**](http://arxiv.org/abs/2512.14473), G. Lecué, Z. Li, and **Zong Shang**. *arXiv preprint arXiv:2512.14473*, 2025.
+* [**Upper bounds for the $L^q$ empirical process via generic chaining**](http://arxiv.org/abs/2511.06338), **Zong Shang**. *arXiv preprint arXiv:2511.06338*, 2025.
 
 ## Working Papers
 
