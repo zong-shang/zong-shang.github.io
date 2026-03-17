@@ -5,9 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Séminaire Probabilités et Statistiques**, Laboratoire de mathématiques d'Orsay, France, 2026.
+* **Séminaire Probabilités et Statistiques**, Laboratoire de mathématiques d'Orsay, France, 2026. [[Slides](/files/slides_BO_Orsay.pdf).]
 
-* [**Seminar Machine Learning Genoa Center (MaLGa)**](https://malga.unige.it/seminars/17490), Italy, 2026. [Slides](/files/slides_spectral_methods_Genoa.pdf).
+* [**Seminar Machine Learning Genoa Center (MaLGa)**](https://malga.unige.it/seminars/17490), Italy, 2026. [[Slides](/files/slides_spectral_methods_Genoa.pdf).]
 
 * [**Meeting in Mathematical Statistics**](https://conferences.cirm-math.fr/3346.html), Rencontres de Statistique Mathématique, Statistical thinking in the age of AI: decision-making and reliability, CIRM, France, 2025. [[Slides](https://drive.google.com/file/d/1WHiVa9Lj4XTZfPNQ3gw5ImocUmtQvVfg/view?usp=sharing)]
 
