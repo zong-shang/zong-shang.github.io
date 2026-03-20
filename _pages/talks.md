@@ -5,17 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Séminaire Probabilités et Statistiques**, Laboratoire de mathématiques d'Orsay, France, 2026. [[Slides](/files/slides_BO_Orsay.pdf).]
+* [**Séminaire Probabilités et Statistiques**](https://www.imo.universite-paris-saclay.fr/en/events/7956), Laboratoire de mathématiques d'Orsay, France, 2026. [[Slides](/files/slides_BO_Orsay.pdf)].
 
-* [**Seminar Machine Learning Genoa Center (MaLGa)**](https://malga.unige.it/seminars/17490), Italy, 2026. [[Slides](/files/slides_spectral_methods_Genoa.pdf).]
+* [**Seminar Machine Learning Genoa Center (MaLGa)**](https://malga.unige.it/seminars/17490), Italy, 2026. [[Slides](/files/slides_spectral_methods_Genoa.pdf)].
 
-* [**Meeting in Mathematical Statistics**](https://conferences.cirm-math.fr/3346.html), Rencontres de Statistique Mathématique, Statistical thinking in the age of AI: decision-making and reliability, CIRM, France, 2025. [[Slides](https://drive.google.com/file/d/1WHiVa9Lj4XTZfPNQ3gw5ImocUmtQvVfg/view?usp=sharing)]
+* [**Meeting in Mathematical Statistics**](https://conferences.cirm-math.fr/3346.html), Rencontres de Statistique Mathématique, Statistical thinking in the age of AI: decision-making and reliability, CIRM, France, 2025. [[Slides](https://drive.google.com/file/d/1WHiVa9Lj4XTZfPNQ3gw5ImocUmtQvVfg/view?usp=sharing)].
 
-* [**Seminar of Probability Group**](https://www.mimuw.edu.pl/en/seminars/seminar-of-probability-group/), Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland, 2025. [[Slides](https://drive.google.com/file/d/1a1vIndPYMCu7IQKyOVlQ2ylGcsvGL7q9/view?usp=drive_link)]
+* [**Seminar of Probability Group**](https://www.mimuw.edu.pl/en/seminars/seminar-of-probability-group/), Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland, 2025. [[Slides](https://drive.google.com/file/d/1a1vIndPYMCu7IQKyOVlQ2ylGcsvGL7q9/view?usp=drive_link)].
 
 * [**Seminar Series on the Mathematics of Data Science**](https://sites.google.com/view/seminarsmds/home-page), University of Twente, Netherlands, 2025.
 
-* [**Meeting in Mathematical Statistics**](https://conferences.cirm-math.fr/3055.html), Rencontres de Statistique Mathématique, New challenges in high-dimensional statistics, CIRM, France, 2024. [[Slides](https://drive.google.com/file/d/1mL9g4hcii_xmqxM7Z1A3Q9yAEoOv2klh/view?usp=drive_link)]
+* [**Meeting in Mathematical Statistics**](https://conferences.cirm-math.fr/3055.html), Rencontres de Statistique Mathématique, New challenges in high-dimensional statistics, CIRM, France, 2024. [[Slides](https://drive.google.com/file/d/1mL9g4hcii_xmqxM7Z1A3Q9yAEoOv2klh/view?usp=drive_link)].
 
 * [**Seminar on Probability Theory and Mathematical Statistics**](https://www.uni-bielefeld.de/fakultaeten/mathematik/forschung/talks), Department of Mathematics, Bielefeld University, Germany, 2024.
 
