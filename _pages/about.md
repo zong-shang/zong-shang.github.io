@@ -25,12 +25,12 @@ Below are some of the research keywords of my research:
 
 ## Education
 
-* **PhD in Applied Mathematics**: CREST-ENSAE, Insitut Polytechnique de Paris, Palaiseau, Frace (2023 – **Expected April 2026**).
+* **PhD in Applied Mathematics**: CREST-ENSAE, Insitut Polytechnique de Paris, Palaiseau, Frace (2023 – 02, April, 2026).
   * **Thesis Title**: Feature Space Decomposition.
   * **Supervisors**: Guillaume Lecué, and Matthieu Lerasle.
   * **Reviewers**: Vladimir Koltchinskii, and Sara Van de Geer.
-  * **Jury**: Alexandre Tsybakov, Claire Boyer, Vladimir Koltchinskii, and Sara Van de Geer.
-  * **Invite**: Marta Strzelecka, and Taiji Suzuki.
+  * **Jury**: Alexandre Tsybakov, Claire Boyer, Marta Strzelecka, and Sara Van de Geer.
+  * **Invite**: Taiji Suzuki.
 * **Master in Applied Mathematics and Statistics**: Data Science, Institut Polytechnique de Paris, Palaiseau, France (2021 - 2023).
 * **B.S. in Computer Science**, College of Computer Science and Technology, Jilin University, Changchun, China (2017 – 2021).
 
