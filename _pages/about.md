@@ -8,7 +8,7 @@ redirect_from:
 classes: homepage-bg
 ---
 
-I am a 3rd year Ph.D. student in the Department of Statistics at CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecué</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>.  Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentor will be Vladimir Koltchinskii.
+I am a PhD in Applied Mathematics (defended 2nd, April, 2026) from CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecué</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>.  Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentor will be Vladimir Koltchinskii.
 
 ## Research Interests
 
@@ -25,7 +25,7 @@ Below are some of the research keywords of my research:
 
 ## Education
 
-* **PhD in Applied Mathematics**: CREST-ENSAE, Insitut Polytechnique de Paris, Palaiseau, Frace (2023 – 02, April, 2026).
+* **PhD in Applied Mathematics**: CREST-ENSAE, Institut Polytechnique de Paris, Palaiseau, Frace (2023 – 02, April, 2026).
   * **Thesis Title**: Feature Space Decomposition.
   * **Supervisors**: Guillaume Lecué, and Matthieu Lerasle.
   * **Reviewers**: Vladimir Koltchinskii, and Sara Van de Geer.
