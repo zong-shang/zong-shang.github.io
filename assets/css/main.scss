@@ -45,7 +45,7 @@
 // 自定义背景：淡化版 Windows XP Bliss
 body {
   background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), 
+    linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), 
     url("/assets/xp-bg.jpg") !important;
   
   background-attachment: fixed;    /* 背景固定，不随滚动条移动 */
