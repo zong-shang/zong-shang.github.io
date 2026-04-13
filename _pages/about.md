@@ -8,7 +8,7 @@ redirect_from:
 classes: homepage-bg
 ---
 
-I am a PhD in Applied Mathematics (defended 2nd, April, 2026) from CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecué</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>.  Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentor will be Vladimir Koltchinskii.
+I am a PhD in Applied Mathematics (defended 2nd, April, 2026) from CREST-ENSAE, Institut Polytechnique de Paris, supervised by <a href="https://guillaume-lecue.faculty.essec.edu/">Guillaume Lecué</a> and <a href="https://lerasle.perso.math.cnrs.fr/">Matthieu Lerasle</a>. Starting from the fall of 2026, I will join the School of Mathematics at the Georgia Institute of Technology as a Visiting Assistant Professor. My mentors will be Vladimir Koltchinskii and Christian Houdré. You can find my PhD thesis [here](/files/PhD_thesis.pdf).
 
 ## Research Interests
 
