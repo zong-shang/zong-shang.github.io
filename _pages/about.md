@@ -52,7 +52,7 @@ Even though I do not speak French, this image of the rising sea has always reson
 This 'rising sea' philosophy guides my own approach to research. I am a firm believer that in mathematics, the 'hard work' should be done by the definitions and the framework themselves. When the conceptual architecture is built with enough care and insight, the theorems should not be forced; they should emerge as natural, almost quiet, consequences of the structures we have defined. For me, a proof is most beautiful when it feels less like a conquest and more like a discovery made inevitable by the right perspective.
 
 
-
+<!-- 
 ## Long-term visitings
 
 * **Center for Statistical Science**, Tsinghua University, China. Host by <a href="https://sites.google.com/site/qianlincd/qian-lins-home-page">Qian Lin</a>. Dec 2023 - Jan 2024. Outcome: <a href="https://arxiv.org/pdf/2512.14473">Research paper</a>.
@@ -71,3 +71,4 @@ This 'rising sea' philosophy guides my own approach to research. I am a firm bel
 
 ## Reviewing
 * **Journals**: *Annals of Applied Probability*, *Annals of Statistics* (×3), *Bernoulli*, *Electronic Journal of Statistics*, *Journal of the American Statistical Association*, *Journal of Machine Learning Research (JMLR)*.
+-->
