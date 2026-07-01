@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-In all papers, authors are listed in lexicographic order.
+Unless otherwise indicated, authors are listed in lexicographic order in all papers. <sup>†</sup> Authors are **not** listed in lexicographic order.
 
 ## Journal Articles
 
@@ -16,8 +16,8 @@ In all papers, authors are listed in lexicographic order.
 
 * [**Sharp convergence rates for Spectral methods via the feature space decomposition method**](http://arxiv.org/abs/2512.14473), G. Lecué, Z. Li, and **Zong Shang**. *arXiv preprint arXiv:2512.14473*, 2025.
 * [**Upper bounds for the Lq empirical process via generic chaining**](http://arxiv.org/abs/2511.06338), **Zong Shang**. *arXiv preprint arXiv:2511.06338*, 2025.
+* [**The Geometry of Statistical Feature Learning in Mean-Field Langevin Dynamics**](https://arxiv.org/abs/2606.31429), **Zong Shang**, T. Wakayama, G. Lecué and T. Suzuki<sup>†</sup>. *arXiv preprint arXiv:2606.31429*, 2026.
 
 ## Working Papers
 
-* **On the generalization error of mean field shallow neural network**, G. Lecué, **Zong Shang**, T. Suzuki, and T. Wakayama. *In preparation*.
 * **Benign overfitting property of the minimum norm interpolant estimator via Feature Space Decomposition**, R. Adamczak, G. Lecué, **Zong Shang**, and M. Strzelecka. *In preparation*.
