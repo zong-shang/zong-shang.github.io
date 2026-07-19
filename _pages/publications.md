@@ -15,9 +15,9 @@ Unless otherwise indicated by <sup>†</sup>, authors are listed in lexicographi
 
 ## Preprints
 
-* [**Sharp convergence rates for Spectral methods via the feature space decomposition method**](http://arxiv.org/abs/2512.14473), G. Lecué, Z. Li, and **Z. Shang**. *arXiv preprint arXiv:2512.14473*, 2025. [**Video, 40 mins**](https://www.bilibili.com/video/BV1qRKA69EEo/)
+* [**Sharp convergence rates for Spectral methods via the feature space decomposition method**](http://arxiv.org/abs/2512.14473), G. Lecué, Z. Li, and **Z. Shang**. *arXiv preprint arXiv:2512.14473*, 2025. [**Video, 40 mins**](https://www.bilibili.com/video/BV1qRKA69EEo/).
 * [**Upper bounds for the Lq empirical process via generic chaining**](http://arxiv.org/abs/2511.06338), **Z. Shang**. *arXiv preprint arXiv:2511.06338*, 2025.
-* [**The Geometry of Statistical Feature Learning in Mean-Field Langevin Dynamics**](https://arxiv.org/abs/2606.31429)<sup>†</sup>, **Z. Shang**, T. Wakayama, G. Lecué and T. Suzuki. *arXiv preprint arXiv:2606.31429*, 2026.
+* [**The Geometry of Statistical Feature Learning in Mean-Field Langevin Dynamics**](https://arxiv.org/abs/2606.31429)<sup>†</sup>, **Z. Shang**, T. Wakayama, G. Lecué and T. Suzuki. *arXiv preprint arXiv:2606.31429*, 2026. [**Video, 30 mins**](https://www.bilibili.com/video/BV1xWK66rER8/).
 
 ## Working Papers
 
